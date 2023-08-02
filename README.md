@@ -10,4 +10,5 @@ Steps:
 6. Retrieve the top N relevant images to the query image.
 
 Delay Feature Fusion Network design within the framework of Squeeze Network. Extracting more relevant image features as compared to another network as well as fewer parameters. 
+
 This experiment was carried out on two publically available datasets Corel and ImageNet dataset.
