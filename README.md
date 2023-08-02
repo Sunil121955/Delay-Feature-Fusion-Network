@@ -7,4 +7,7 @@ Steps:
 3. For any Query image, we extract the feature vector using a trained model.
 4. Merge the image features vector with the query image feature vector.
 5. Apply the t-SNE on these merged features.
-6. Retrieve the top N relevant images to the query image. 
+6. Retrieve the top N relevant images to the query image.
+
+Delay Feature Fusion Network design within the framework of Squeeze Network. Extracting more relevant image features as compared to another network as well as fewer parameters. 
+This experiment was carried out on two publically available datasets Corel and ImageNet dataset.
